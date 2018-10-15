@@ -78,7 +78,7 @@ var ok = new Comment('OK!')
 var good = new Comment('Good park!')
 var cool = new Comment('Cool park!')
 
-// let's have some people visit some toilets and give comments
+// let's have some people visit some parks and give comments
 jenny.visit(nkunde)
 jenny.give(ok)
 beate.visit(bautzen)
